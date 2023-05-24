@@ -50,7 +50,7 @@ It shows that at the beginning our model not doing so well. Fitness function is 
 
 The performance you can see under: 
 
-![alt text](https://github.com/jakub1203/Self-learning-Flappy-Bird-using-Genetic-Algorithms/blob/main/giff.gif)
+![alt text](https://github.com/jakub1203/Self-learning-Flappy-Bird-using-Genetic-Algorithms/blob/main/gif.gif)
 
 Sources
 https://techwithtim.net/wp-content/uploads/2019/08/config-feedforward.txt

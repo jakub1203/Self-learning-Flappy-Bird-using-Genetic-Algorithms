@@ -48,6 +48,9 @@ The algorithm was doing better than I expected. Mostly in the second iteration, 
 It shows that at the beginning our model not doing so well. Fitness function is about 0.5 and time of game last 2,5 second. But after learning we can notice that the best fitness function achieved 110,31 which is pretty good value. It shows that our algorithm found the way to avoid all obstacles.
 ![image](https://user-images.githubusercontent.com/77887361/232574545-5830a3be-1a4a-4f62-8a81-0c352d6876bd.png)
 
+The performance you can see under: 
+
+![alt text](https://github.com/jakub1203/Self-learning-Flappy-Bird-using-Genetic-Algorithms/blob/main/giff.gif)
 
 Sources
 https://techwithtim.net/wp-content/uploads/2019/08/config-feedforward.txt
